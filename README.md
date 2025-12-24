@@ -1,18 +1,69 @@
+# 🏥 Clinico – Conversational Appointment Frontend
+
+Clinico is a modern conversational UI built with **Next.js** that allows users to book medical appointments through a friendly chat interface.  
+This repository contains **only the frontend** of the application.
+
+## 🌐 Live Demo
+#### Frontend URL : [Frontend Demo](https://pair-programming-phi.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- 💬 Chat-based appointment booking
+- 🎨 Clean and responsive UI
+- 🔗 Clickable links inside chat messages
+- 🌐 API integration with FastAPI backend
+- 📱 Mobile-friendly design
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js (App Router)**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Axios** (API calls)
+
+---
+
+## 📂 Project Structure
+<img width="226" height="345" alt="image" src="https://github.com/user-attachments/assets/4cdc2ea2-5b8e-4f4c-af28-f11c08dde2f8" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+---
 
+## 📦 Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (v18 or later recommended)
+- **npm** or **yarn**
+
+Check versions:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+node -v
+npm -v
 ```
+
+## ⚙️ Installation & Setup
+
+### **1. Clone the repository **
+```bash
+git clone https://github.com/your-username/frontend-repo-name.git
+cd frontend-repo-name
+```
+### **2. Install dependencies **
+```bash
+npm install
+```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
