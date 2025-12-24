@@ -4,7 +4,8 @@ Clinico is a modern conversational UI built with **Next.js** that allows users t
 This repository contains **only the frontend** of the application.
 
 ## 🌐 Live Demo
-#### Frontend URL : [Frontend Demo](https://pair-programming-phi.vercel.app/)
+#### Frontend URL : [Frontend Demo](https://frontend-conversational-appointment-cz7mrl05d.vercel.app/)
+#### Backend URL  : [Backend Demo](https://backend-conversational-appointment.onrender.com/docs)
 
 ---
 
